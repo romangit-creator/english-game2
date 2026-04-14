@@ -1,5 +1,4 @@
-railway.com
-web-production-53975.up.railway.app
+
 If you are already using Eventlet, we recommend migrating to a different
 framework.  For more detail see
 https://eventlet.readthedocs.io/en/latest/asyncio/migration.html
